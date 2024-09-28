@@ -43,7 +43,7 @@ class RolesController extends Controller
             ->addColumn('action', function ($data) {
                 $actions = '';
                 $actions .= '<a href="' . route('roles.edit', $data->id) . '" class="btn btn-link btn-primary btn-lg"><i class="fa fa-edit"></i></a>';
-                $actions .= '<a href="javascript:;" data-url="' . route('roles.destroy', $data->id) . '" class="btn btn-link btn-danger modal-popup-delete" data-modal-delete-text="Are you sure you want to delete this role?"><i class="fa fa-times"></i></a>';
+                $actions .= '<a href="javascript:;" data-url="' . route('roles.destroy', $data->id) . '" class="btn btn-link btn-danger modal-popup-delete"><i class="fa fa-times"></i></a>';
                 return $actions;
             })
             ->rawColumns(['action', 'status'])
