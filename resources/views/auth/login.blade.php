@@ -17,10 +17,10 @@
         <!-- page main start -->
         <div class="page">
             <div class="page-content h-100">
-                <div class="background theme-header"><img src="img/city2.jpg" alt=""></div>
+                <div class="background theme-header"><img src="{{ asset('img/city2.jpg')}}" alt=""></div>
                 <div class="row mx-0 h-100 justify-content-center">
                     <div class="col-10 col-md-6 col-lg-4 my-3 mx-auto text-center align-self-center">
-                        <img src="img/logo-w.png" alt="" class="login-logo">
+                        <img src="{{ asset('img/logo-w.png')}}" alt="" class="login-logo">
                         <h4 class="text-white mb-4"><BR><STRONG>{{__('Parent mode')}}</h4>
                         <br><br>
                         <h5 class="text-white mb-4">{{__('Login')}}</h5>
