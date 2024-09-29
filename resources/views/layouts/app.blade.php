@@ -7,16 +7,33 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>@yield('title')</title>
+
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
+     <!-- Required meta tags -->
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, shrink-to-fit=no, viewport-fit=cover">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ asset('vendor/bootstrap-4.1.3/css/bootstrap.min.css')}}">
+
+    <!-- Material design icons CSS -->
+    <link rel="stylesheet" href="{{ asset('vendor/materializeicon/material-icons.css')}}">
+
+    <!-- swiper carousel CSS -->
+    <link rel="stylesheet" href="{{ asset('vendor/swiper/css/swiper.min.css')}}">
+
+    <!-- app CSS -->
+    <link id="theme" rel="stylesheet" href="{{ asset('css/style.css')}}" type="text/css">
+
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
-<body>
+<body class="color-theme-blue">
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
@@ -76,5 +93,29 @@
             @yield('content')
         </main>
     </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="{{ asset('js/jquery-3.2.1.min.js')}}"></script>
+    <script src="{{ asset('js/popper.min.js')}}"></script>
+    <script src="{{ asset('vendor/bootstrap-4.1.3/js/bootstrap.min.js')}}"></script>
+
+    <!-- Cookie jquery file -->
+    <script src="{{ asset('vendor/cookie/jquery.cookie.js')}}"></script>
+
+    <!-- sparklines chart jquery file -->
+    <script src="{{ asset('vendor/sparklines/jquery.sparkline.min.js')}}"></script>
+
+    <!-- Circular progress gauge jquery file -->
+    <script src="{{ asset('vendor/circle-progress/circle-progress.min.js')}}"></script>
+
+    <!-- Swiper carousel jquery file -->
+    <script src="{{ asset('vendor/swiper/js/swiper.min.js')}}"></script>
+
+    <!-- Application main common jquery file -->
+    <script src="{{ asset('js/main.js')}}"></script>
+
+    <!-- page specific script -->
 </body>
 </html>

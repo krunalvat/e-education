@@ -1,0 +1,11 @@
+13||Pizze||Le nostre Pizze||
+9||Sfiziosità||Altre sfiziosità||
+8||Baby menù||Menù per i più piccoli||
+6||Insalatone||Insalatone||
+5||Contorni||Contorni||
+2||Birre Bottiglia||Birre in bottiglia||
+14||Vini Bottiglia||Vini in bottiglia||
+7||Dessert||Dessert||
+16||Bevande||Bevande||
+15||Caffè e Distillati||Caffè e Distillati||
+11||test||test||

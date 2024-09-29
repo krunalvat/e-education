@@ -1,0 +1,50 @@
+1||HOP IS BACK||Una birra lager con un gusto pieno ed equilibrato dal colore oro brillante e dalla schiuma stabile e compatta.<br/><br/>Nazione: Italia <br/>Stile birrario: Lager <br/>Colore: Chiara <br/>Fermentazione: Bassa <br/>Grado alcolico: 4.80%|P  3,50 - M  5,00|20220905090955beer-1290633_640.jpg
+1||TRHIBU by HIBU||IPA artigianale prodotta in Brianza. Schiuma media da bianca a color crema con buona persistenza. Luppolo intenso che evidenzia agrumi, fiori e diversi tipi di frutti come tropicali, con nocciolo e di bosco. Morbida, ruvida, amara e dissetante.  <br><br>Nazione: Italia <br>Stile Dirrario: IPA <br>Colore: Chiara <br>Fermentazione: Alta <br>Grado alcolico: 6.90%|P  4,00 - M  6,00|
+1||NDO WAISS by HIBU||Waiss artiginale prodotta in Brianza. Il giusto bilanciamento tra fruttato e floreale rendono questa Weizen eccezionalmente fresca ed equilibrata.  <br/><br/>Nazione: Italia<br/>Stile birrario: Weizen<br/>Colore: Chiara<br/>Fermentazione: Alta<br/>Grado alcolico: 5.60%|P 4,00 - M 6,00-1L 8,00|
+1||BEAVERTOWN GAMMA RAY (BIRRA DEL MESE)||Gamma Ray nasce dall' idea di creare una birra tropicale, adatta per ogni momento della giornata. Spiccano le note di mango e pompelmo date dai luppoli americani generosamente aggiunti in dry hopping.  <br/><br/>Nazione: UK-Gran Bretagna <br/>Stile birrario: Apa <br/>Colore: Chiara <br/>Fermentazione: Alta <br/>Grado alcolico: 5.40%|M  7,00|20220905100949beer-1290633_640.jpg
+2||PATATINE FRITTE CON PROVOLA FUSA, SALSICCIA E PORCHETTA||| 6,00|
+2||POLPETTE DI MANZO IN FONDUTA DI VALDOSTANA||| 6,00|
+2||ITALIAN NACHOS||(Maxi chips, fonduta di formaggio, peperoncino calabrese, porchetta, scalogno)| 7,00|
+1||MORETTI LA ROSSA||Una birra doppio malto di un aroma intenso e un colore ambrato, e poi una varietà particolarmente aromatica di luppolo, che le conferisce un retrogusto amaro e un delicato profumo. <br><br>Nazione: Italia <br>Stile birrario: Bock <br>Colore: Ambrata <br>Fermentazione: Bassa <br>Grado alcolico: 7.20%|P  3,50 - M  5,00|
+2||ALETTE DI POLLO L'AMBRATA||| 6,00|
+2||ANELLI DI CIPOLLA||| 5,00|
+2||MOZZARELLA IN CARROZZA||| 5,00|
+2||BOCCONCINI DI POLLO CON SPECK E PROVOLONE||| 5,00|
+2||PEPERONCINO GRASSO CON FORMAGGIO||| 6,00|
+2||MOZZARELLINE IMPANATE||| 5,00|
+2||STUZZICAMIX||descrizione stuzzicamix|x2 pers.  12.00 - x3 pers.  17.00|
+2||TAGLIERE DI SALUMI E FORMAGGI SELEZIONATI||Accompagnati con pane| 11,00|
+3||EASY||Bun artigianale, burger di fassona 180g, provola, pancetta arrotolata, pomodoro, lattuga e maionese| 10,00|
+3||PANCINO||Bun artigianale, burger di fassona 180 g, tomino piemontese, pancetta arrotolata, songino, salsa al miele e senape| 13,00|
+3||FRIARIELLO||Bun di grano duro, salamella alla griglia, provola fusa, friarielli leggermente piccanti, bomba calabrese| 11,00|
+3||STRAPORC||Bun artigianale, stracotto di maiale, scamorza, cipolla caramellata, lattuga, pomodoro| 12,00|
+3||SCALABRECE||Bun artigianale, burger di fassona 180 g, burrata affumicata, crema di nduja, zucchine alla scapece| 15,00|
+3||L'ESAGERATO||Bun artigianale, burger di fassona 180 g, porchetta, crema al gorgonzola e noci, funghi porcini, rucola, salsa al tartufo nero| 15,00|
+3||L'ITALIANO||Bun artigianale, burger di fassona 180 g, stracciatella, pomodori secchi sott'olio, pesto di basilico homemade| 12,00|
+3||VALDONZANA||Bun artigianale, valdostana di petto di pollo, scamorza affumicata, melanzane a funghetto, songino, maionese| 11,00|
+3||V.E.G.||Bun integrale, melanzane a funghetto, friarielli, avocado, maxi chips, salsa veg| 10,00|
+4||COSTINE ALLA BIRRA (marinate con il nostro rub di spezie homemade)||Con contorno a scelta| 16,00|
+4||TAGLIATA DI MANZO 200g||Con contorno a scelta| 15,00|
+4||TAGLIATA DI POLLO 180g||Con contorno a scelta| 10,00|
+4||SALSICCIA E FRIARIELLI leggermente piccanti||| 10,00|
+4||MIX DI GRILL x2||Con contorno a scelta| 26,00|
+5||PATATINE FRITTE||| 4,00|
+5||ZUCCHINE ALLA SCAPECE||| 4,00|
+5||MELANZANE A FUNGHETTO||| 4,00|
+5||VERDURE GRIGLIATE||| 4,00|
+6||CAESAR||Lattuga, crostini di pane, pancetta croccante, cipolla, straccetti di pollo alla piastra, salsa Caesar| 10,00|
+6||LA CAPRESE||Caprese di bufala, lattughino, pomodorini, origano| 10,00|
+6||DELLA HOUSE||Valeriana, zucchine grigliate, provola, olive taggiasche, guanciale| 10,00|
+6||NICOISE||Mix insalata, tonno, cipolla, mais, pomodorini, olive, uova sode, maionese| 10,00|
+6||SALMONATA||Mix insalata, avocado, pomodorini, germogli di soia, salmone affumicato| 12,00|
+7||CHEESECAKE||Con topping a scelta| 6,00|
+7||TIRAMISÙ||| 5,00|
+7||TORTA DELLA CASA||| 5,00|
+8||HAMBURGER AL PIATTO||Con patatine fritte| 8,00|
+8||COTOLETTA IMPANATA||Con patatine fritte| 6,00|
+3||Veg burger||Beyond burger, vegan cheddar, pomodoro e veg mayo. 100% plant based.|15|
+8||Ciccio Polenta||rewr wwerwer ewew wr <br/><br/>sdfdsfdsfsd<br/>sdfsd<br/>sfsd|1,00|
+8||Ciccio Marinaio||Ciccio marinaio<br><br><br><br>test<br><br>123<br><br>456|22,00|
+8||Ciccios due||Ciccios due<br/><br/><br/>Ciccios2<br/>234<br/>wwwww|45,99|
+8||Cicciopasticciowww||wwwwwwwwwwwwwwww<br><br>eeeee<br>rrrr<br>ttttt|34,00|
+8||Paco Paco Dance||Paco paco dance dance<br/><br/>dance!<br/>dance!<br/>dance!|11,00|

@@ -17,28 +17,9 @@ use App\Http\Controllers\Admin\RolesController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('login');
 });
 
-/**
- * Admin Route
- */
-Route::group(['middleware' => ['auth']], function () {
-    Route::get('/admin', [AdminController::class,'index'])->name('admin.index');
-        
-    /**
-     * User Routes
-     */
-    Route::resource('/users', UserController::class);
-    Route::get('users-data', [UserController::class, 'getData'])->name('users.data');
-
-    /**
-     * Roles Routes
-     */
-    Route::resource('/roles', RolesController::class);
-    Route::get('roles-data', [RolesController::class, 'getData'])->name('roles.data');
-
-});
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

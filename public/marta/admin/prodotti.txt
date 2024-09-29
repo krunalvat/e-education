@@ -1,0 +1,129 @@
+2||SANT'AMBROEUS 0,33L||Birra storica del birrificio, un simbolo soprattutto tra gli avventori dei locali del quartiere di Lambrate. Caratterizzata da una base delicata di malto pils e da una leggera luppolatura americana di Summit e Citra, la "Santa" è una golden ale dal buon tenore alcolico ma dalla facile bevuta.<br/>Colore: biondo dorato<br/>Aroma: note floreali e speziate<br/>Gusto: dolce di miele e frutta sciroppata<br/>Strong Golden Ale - 7% VOL. - 16°P - IBU 30|5,00|20220906070948sant-ambroeus-tr.png
+2||Fraziskaner 50cl||Fondata nel 1363 e prodotta nel rispetto della Legge della Purezza della Baviera. Franziskaner è una birra di frumento non filtrata dal gusto rinfrescante, leggermente amara e torbida. E' caratterizzata da un colore chiaro.<br/><br/>Nazione: Germania<br/>Stile: Weiss<br/>Grado alcolico: 5 %|5,50|20220906070939Fraziskanertr.png
+2||MONTESTELLA 0,33L||Nasce nel 1996 la prima birra del Birrificio Lambrate e si chiama Montestella. Nel corso degli anni ha subito diverse revisitazioni per trovare la propria identità in una pilsner in puro stile lambratese.<br>Colore: Biondo dorato<br>Aroma: Note erbacee di luppolo<br>Gusto: Erbaceo con delicate note maltate<br>Pilsner - 5% VOL. - 11,5°P - IBU 30|5,00|20220906070906montestellabotttr.png
+2||GHISA 0,33L||La storica birra nera di Lambrate, una stout dalle note affumicate, resa morbida nella bevuta grazie all'utilizzo di fiocchi d'avena.<br>Colore: nero<br>Aroma: Note affumicate e tostate<br>Gusto: Cacao amaro, caffè e sentori affumicati<br>Smoked Stout - 5% vol. -12,5°P - IBU 20|5,00|20220906070922ghisa-bottiglia-tr.png
+2||ICHNUSA NON FILTRATA 0,50 L||Dalla passione dei Mastri birrai di Assemini nasce Ichnusa Non Filtrata, una birra corposa perché fatta con puro malto d’orzo. Non essendo filtrata, presenta un aspetto piacevolmente velato grazie ai lieviti rimasti in sospensione. Offre una bevuta morbida con una lieve nota amara nel finale. La sua immagine, ispirata al passato, è iconica e distintiva e rispetta perfettamente la personalità di una birra davvero unica.<br><br>Aroma: Fruttato con un leggero sentore di luppolo<br>Colore: dorato<br>Gradazione alcolica: 5% vol<br>|6,00|20220906080911ichnusa.png
+1||MONTESTELLA||Nasce nel 1996 la prima birra del Birrificio Lambrate e si chiama Montestella. Nel corso degli anni ha subito diverse revisitazioni per trovare la propria identità in una pilsner in puro stile lambratese.<br/>Colore: Biondo dorato<br/>Aroma: Note erbacee di luppolo<br/>Gusto: Erbaceo con delicate note maltate<br/>Pilsner 5% VOL. - 11,5°P - IBU 30|P. 4,00 - M. 6,00|20220906070939Montestellatr.png
+1||AMERICAN MAGUT||Birra nata dalle rivisitazione della Magut (German Pilsner) in stile americano. Nel 2013 sulla scia delle IPA che dominavano il mercato, a Lambrate sono state impiegate due delle migliori qualità del birrificio: le basse fermentazioni e le luppolature decise ma eleganti. Il risultato è una birra di riferimento nel mondo delle "hoppy lager" anche se noi l'abbiamo volutamente definita "west coast pils" per sottolineare sia la luppolatura di stampo americano, sia la caratteristica facilità di bevuta tipica dello stile pilsner.<br/>Colore: Biondo<br/>Aroma: Agrumi, frutta esotica<br/>Gusto: Floreale, note erbacee<br/>West Coast Pilsner - 5% VOL. - 11°P - IBU 30|P. 4,00 - M. 6,00|20220906070921american_magut.png
+1||SANT'AMBROEUS||Birra storica del birrificio, un simbolo soprattutto tra gli avventori dei locali del quartiere di Lambrate. Caratterizzata da una base delicata di malto pils e da una leggera luppolatura americana di Summit e Citra, la "Santa" è una golden ale dal buon tenore alcolico ma dalla facile bevuta.<br/>Colore: Biondo dorato<br/>Aroma: Note floreali e speziate<br/>Gusto: Gusto dolce di miele e frutta sciroppata<br/>Strong Golden Ale - 7% VOL. - 16°P - IBU 30|P. 4,00 - M. 6,00|20220906070914SANTAMBROEUS.png
+1||PORPORA||Doppelbock dal colore rosso intenso in pieno stile tedesco<br/>Colore: Rosso<br/>Aroma: Note tostate, di caramello e cacao<br/>Gusto: Cereale maltato, biscotto, caramello<br/>Hoppy Bock - 8% VOL. - 18°P - IBU 25|P. 4,00 - M. 6,00|20220906070911porporatr.png
+1||GHISA||La storica birra nera di Lambrate, una stout dalle note affumicate, resa morbida nella bevuta grazie all'utilizzo di fiocchi d'avena.<br/>Colore: nero<br/>Aroma: Note affumicate e tostate<br/>Gusto: Cacao amaro, caffè e sentori affumicati<br/>Smoked Stout - 5% vol. - 12,5°P  IBU 20|P. 4,00 - M. 6,00|20220906070941ghisatr.png
+1||GAINA||La Gaina è la prima IPA prodotta dal Birrificio Lambate. Si caratterizza per l'utilizzo massiccio di luppoli americani soprattutto in dry-hopping, i quali le conferiscono esuberanti e freschi profumi agrumati tipici di questo stile americano.<br/>Colore: Ambrato chiaro<br/>Aroma: Note speziate e di agrumi<br/>Gusto: Agrumato e resinoso, amaro deciso<br/>India Pale Ale - 6% VOL. - 13,5°P - IBU 60|P. 4,00 - M. 6,00|20220906070951gainatr.png
+9||Fish & Chips||Patatine e gamberetti fritti con ketchup e salsa tartara| 6,00|20220909050932fish-and-chips-656223_640.jpg
+9||POLPETTINE IN FONDUTA||Polpettine di manzo in fonduta valdostana| 6,00|20220909050942meatballs-1252651_640 (1).jpg
+9||HOT NACHOS||Nachos, fonduta di formaggio, peperoncino, salsa messicana| 7,00|20220909050904nachos-4454941_640.jpg
+9||ALETTE DI POLLO||Alette di pollo croccanti speziate, con salse della casa| 6,00|20220909050941chicken-800935_640.jpg
+9||ONION RINGS||Anelli di cipolla home made| 5,00|20220909050921onion-rings-2358947_640.jpg
+9||MOZZARELLINE IN CARROZZA||Ricetta originale in formato ridotto| 5,00|20220909050951mozzarelle in carrozza.jpeg
+9||CHICKEN NUGGETS||Bocconcini di pollo house made| 5,00|20220909050943meal-6815344_640.jpg
+9||OLIVE ASCOLANE||Ricetta originale, home made| 5,00|20220909050913olive-all-ascolana.jpg
+9||ARROSTICINI E PATATINE (min. X2)||Spiedini di carne di pecora, ricetta originale abruzzese, con contorno di patatine fritte|x2 pers.  12.00 - x3 pers.  17.00|20220909050928vegan-5325595_640.jpg
+3||FAMONA||Bun fatto in casa, burger di fassona 180 gr, pomodoro, pancetta, insalata, salsa bbq|12,00|20220907050941bread-3035491_640.jpg
+3||BOMBA||Bun fatto in casa, salamella alla griglia, provola fusa, cipolla di tropea, insalata, salsa BBQ| 11,00|20220907050911burger-2710511_640 (1).jpg
+3||MAIALATO||Bun fatto in casa, doppio hamburger di fassona, scamorza, stracotto di maiale, cipolla di tropea, insalata, pomodoro, salsa tartara| 11,00|20220907050926burger-7422970_640.jpg
+3||HIGHLANDER||Bun fatto in casa, burger di fassona 180 gr, emmental, melanzane alla griglia, nduja| 11,00|20220907050927burger-4967868_640.jpg
+3||JEEG||Bun fatto in casa, burger di fassona 180 gr, porchetta, melanzane alla griglia, songino, crema al gorgonzola, maionese, pomodoro| 11,50|20220907060919burger-2573682_640.jpg
+3||HURRICANE||Bun fatto in casa, triplo burger di fassona da 80 gr, pomodorini, cipolla, maionese, cetrioli| 11,00|20220907060944food-5241278_640.jpg
+3||UNCONVENTIONAL||Bun fatto in casa, burger di fassona 160 gr, asparagi, funghi porcini, cipolla, emmental| 11,00|20220907060942burger-874703_640.jpg
+4||COSTINE ALLA BIRRA||Con contorno a scelta| 16,00|20220907070900pork-ribs-2374889_640.jpg
+4||TAGLIATA DI MANZO 200 gr||TAGLIATA DI MANZO da 200gr con contorno a scelta| 15,00|20220907070930barbeque-4665853_640.jpg
+4||TAGLIATA DI POLLO 180 gr||TAGLIATA DI POLLO da 180 gr con contorno  e salse a scelta| 10,00|20220907070951chicken-wings-2210461_640.jpg
+4||SALSICCIA PICCANTE||Salsiccia piccante con crostini di pane, contorno e salse a scelta| 10,00|20220907070954bratwurst-1374536_640.jpg
+4||FILETTO E PATATE||Tagliata di filetto con patate e verdure grigliate|16,00|20220907070923fillet-4090727_640.jpg
+5||PATATINE FRITTE||| 4,00|20220908070930french-fries-5332766_640.jpg
+5||PATATE AL FORNO||| 4,00|20220908070906food-6271099_640.jpg
+5||MELANZANE FRITTE||| 4,00|20220908070953aubergine-2374163_640.jpg
+5||BOCCONCINI DI VERDURE FRITTE||| 4,00|20220908070934fried-vegetables-4608680_640.jpg
+6||LA GOLOSA||Lattuga, songino, uova, mozzarelline, pomodorini e olive| 10,00|20220909050918meal-1033210_640.jpg
+6||RADICCHIO||Rucola, radicchio, olive nere| 10,00|20220909060942salad-2228890_640.jpg
+6||DELLA CASA||Cetrioli, pomodori, cubetti di formaggio fresco, aceto balsamico di Modena Dop| 10,00|20220909060939salad-1440111_640.jpg
+6||LA ZUCCONA||Insalatona di zucca e barbabietole con formaggio cremoso| 10,00|20220909060939gourmet-salad-2157234_640.jpg
+6||SALMONATA||Insalata mix con salmone e pomodoro, ricoperta di scaglie di grana| 12,00|20220909060933salmon-carpaccio-253356_640.jpg
+7||TIRAMISÙ DELLA CASA||Tiramisù della casa, accompagnato da panna e fragole| 5,00|20220909060919image.jpg
+7||FRAGOLONE||Torta fresca alle fragole con crema della casa| 5,00|20220909060910strawberries-3285333_640.jpg
+8||HAMBURGER E PATATINE||Bun fatto in casa con burger di fassona 50 gr, emmental, salse a scelta e patatine fritte| 8,00|20220907070928hamburger-207295_640.jpg
+8||COTOLETTA E PATATINE||Cotoletta impanata con patatine fritte| 6,00|20220907060930schnitzel-356436_640.jpg
+3||VEG BURGER||Beyond burger, vegan cheddar, pomodoro e veg mayo. 100% plant based.|11,50|20220907060905burger-4967868_640 (1).jpg
+7||TORTA ALLE CAROTE||Rivisitazione sfiziosa della casa della ricetta tradizionale|5,00|20220909060916cakes-3128876_640.jpg
+7||TORTA DI MELE||Torta fresca alle mele, ricetta tradizionale|5,00|20220909060950apple-cake-6007_640.jpg
+7||TORTA AL CIOCCOLATO||Torta soffice al cioccolato accompagnata da panna montata|8,00|20220909060907cake-4337127_640.jpg
+9||GNOCCO FRITTO||Gnocco fritto piacentino, home made|4,00|20220909050908gnocco-fritto.jpg
+8||NUGGETS E PATATINE||Nuggets di pollo con patatine fritte e salse a scelta|7,50|20220907070930chicken-nuggets-246180_640.jpg
+4||ARROSTO D'ANATRA E POLENTA||Arrosto d'anatra con polenta e contorno di verdure|15,00|20220907070951meal-4567121_640.jpg
+4||COSTATA  ALLA GRIGLIA||Costata di manzo alla griglia|14,50|20220907070941meat-1155132_640.jpg
+12||PORCINI||Spaghetti ai funghi porcini con intingolo speziato della casa|11,00|20220907080903pasta-1330541_640.jpg
+12||SPAGHETTONI ALL'AMATRICIANA|||11,00|20220907080948pasta-329522_640.jpg
+12||LINGUINE ALLE VONGOLE|||12,00|20220907080916pasta-3483010_640.jpg
+12||RAVIOLONI DEL CACCIATORE||Ravioloni fatti in casa al sugo di caccia, con assaggio di cinghiale|12,00|20220907080911meatball-ravioli-964959_640.jpg
+12||LASAGNE ALLA BOLOGNESE||Pasta fatta in casa|9,50|20220907080944food-5987888_640.jpg
+12||LINGUINE ALLA PARMIGIANA|||11,00|20220907100958pasta-6263653_640.jpg
+12||PENNETTE AL PESTO||con pesto fresco casereccio|10,00|20220907100943pasta-1033216_640.jpg
+12||RAVIOLI RICOTTA E SPINACI|||9,00|20220907100930food-1285310_640.jpg
+12||TAGLIATELLE ASPARAGI E SALMONE|||13,00|20220907100900pasta-4144384_640.jpg
+12||PASTA AI TARTUFI||con tartufi freschi di Alba|12,00|20220907100931pasta-3663720_640.jpg
+12||LINGUINE MARENERO||Pasta artigianale al nero di seppia con seppie e frutti di mare|15,00|20220907100941black-linguine-2222364_640.jpg
+12||RISOTTO ALLE BARBABIETOLE|||8.50|20220907100910risotto-557124_640.jpg
+4||FILETTO CON ASPARAGI||(180 gr. ca)|18,00|20220907100936risotto-5574436_640.jpg
+12||RISOTTO AI FRUTTI DI MARE|||10,00|20220907100929risotto-frutti-di-mare-3711871_640.jpg
+11||FRITTO MISTO||con pesce fresco pescato in giornata|11,00|20220907100936food-5911572_640.jpg
+11||GRIGLIATA DI POLPO||con calamari|15,00|20220907100909fish-4834348_640.jpg
+11||TARTARE TONNO, SALMONE E AVOCADO|||9,00|20220907100950tartare-di-tonno-3419584_640.jpg
+11||FILETTO DI TONNO CON PATATE|||11,00|20220907110939tuna-6568361_640.jpg
+11||BRANZINO AL SALE|||18,00|20220907110910food-3319233_640.jpg
+11||SARDINE GRIGLIATE|||12,50|20220907110910sardines-1489630_640.jpg
+11||PIATTO DI GAMBERI|||13,00|20220907110904prawns-2348933_640.jpg
+11||ZUPPA DI PESCE CON CROSTINI|||14,00|20220907110927food-1330531_640.jpg
+12||RISOTTO GAMBERI E ASPARAGI|||13,00|20220907110921rice-6319050_640.jpg
+11||INVOLTINI DI PESCE FRITTO|||13,00|20220907110930fried-601250_640.jpg
+11||SALMONE GRIGLIATO CON PATATE|||12,00|20220907110920salmon-5371963_640.jpg
+11||INSALATA DI GAMBERI|||9.50|20220907110944shrimps-2242643_640.jpg
+12||PAELLA DI MARE|||16,00|20220907110939paella-1038048_640.jpg
+11||INSALATA DI MARE|||11,00|20220907110914fish-5173694_640.jpg
+11||SALMONE AL PIATTO|||17.00|20220907110931plate-3680880_640.jpg
+5||FANTASIA DI INSALATA|||5,00|20220908070949salad-374173_640.jpg
+10||TAGLIERE DI FORMAGGI||1 tagliere di formaggi tipici della lombardia con frutta di stagione|11,00|20220908080927cheese-platter-1108564_640.jpg
+10||TAGLIERE DI SALUMI||Tagliere di salumi nostrani selezionati<br/>tipici della Lombardia<br/>|13,00|20220908080953ham-181664_640.jpg
+10||TAGLIERE SALUMI E FORMAGGI X2||1 Tagliere di salumi tipici piacentini<br/>1 Tagliere di formaggi tipici della Lombardia|21,00|20220908080907ham-181667_640.jpg
+6||BUFALINA||Pomodori freschi, basilico e mozzarella di bufala|10,00|20220909060941salad-2487759_640.jpg
+7||SEMIFRETTO PANNA E CIOCCOLATO||Semifreddo della casa alla panna e cioccolato, con dolci note di agrumi|6,00|20220909060923cake-1227842_640.jpg
+7||CHEESECAKE||Rivisitazione della casa, esperienza di cucina molecolare|10,00|20220909060918cheesecake-2867614_640.jpg
+8||BABY MARGHERITA||Pizza margherita in formato ridotto|4,00|20220909060911pizza-2978377_640 (1).jpg
+8||SPAGHETTI BABY||Spaghetti al pomodoro in porzione ridotta|3,50|20220909060954pasta-1463930_640.jpg
+13||MARGHERITA||Pomodoro, mozzarella|5,50|20220909070911cheese-4797173_640.jpg
+13||POMODORINI||Pomodoro, mozzarella, pomodorini|5,00|20220909070901pizza-3000274_640.jpg
+13||PROSCIUTTO E PEPERONI||Pomodoro, mozzarella, prosciutto cotto, peperoni|8,00|20220909070957pizza-3000282_640.png
+13||PICCANTE||Pomodoro, mozzarella, salame piccante, olive nere|8,50|20220909070958pepperoni-2571392_640.jpg
+13||POMODORINI E RUCOLA||Pomodoro, mozzarella, pomodorini ciliegia, rucola, scaglie di grana|8,50|20220909070904pizza-2810590_640.jpg
+13||AMERICANA||Pomodoro, mozzarella, wurstel, peperoni, olive nere|9,50|20220909070953pizza-4215445_640.jpg
+13||MELANZANE FRITTE||Pomodoro, mozzarella, melanzane fritte|9,00|20220909070900dish-6853490_640.jpg
+13||VEGANA||Pomodoro, formaggio veg, prosciutto veg, carciofini, peperoni, pomorodini|10,00|20220909070934pizza-1518846_640.jpg
+13||VEGETARIANA||Pomodoro, mozzarella, melanzane, peperoni, pomodorini, mais, olive|10,00|20220909070900pizza-4500809_640 (1).jpg
+13||MOZZARELLA E BASILICO||Pomodoro, mozzarella, basilico, pomodorini|8,00|20220909070937pizza-2341377_640.jpg
+13||PORCINI||Pomodoro, mozzarella, funghi porcini, olive nere|7,50|20220909070908pizza-411089_640.jpg
+13||TONNO E CIPOLLA||Pomodoro, mozzarella, tonno, cipolla, olive nere|8,00|20220909070925pizza-4384650_640.jpg
+14||GUTTURNIO FRIZZANTE DEI COLLI PIACENTINI||Vino frizzante. Vino rosso ottenuto da uva Barbera e Bonarda coltivate sulle colline piacentine. Colore rosso rubino, sapore abboccato e profumo caratteristico. Accompagna piatti di carne rossa, selvaggina, arrosti. Servire a temperatura ambiente.<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: Vino DOC Gutturnio<br/>Vendemmia: 2020<br/>Tipologia:  Frizzante<br/>Zona di Produzione: Colline Piacentine Loc. Bacedasco Alto (PC)<br/>Uve Base: Bonarda 30%, Barbera 70%<br/>Gradazione Alcolica: 12 % vol.<br/>Colore: rosso rubino|Calice (60 ml)   6,00 - Bottiglia (75 cl)  16,00|20220916070920Gutturniopng.png
+14||GUTTURNIO SUPERIORE DEI COLLI PIACENTINI||Vino fermo rosso ottenuto da uve Barbera e Bonarda coltivate sulle colline piacentine. Colore rosso rubino, sapore abboccato e profumo caratteristico. Accompagna piatti di carne rossa, selvaggina, arrosti. Servire a temperatura ambiente.<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: Vino DOC Gutturnio Superiore<br/>Vendemmia: 2020<br/>Tipologia: Fermo<br/>Zona di Produzione: Colline Piacentine Loc. Bacedasco Alto (PC)<br/>Uve Base: Barbera 60/65%, Bonarda 35/40%<br/>Gradazione Alcolica: 13 % vol.<br/>Colore: rosso rubino<br/>|Calice (60 ml)  8,00 - Bottiglia (75 cl)  18,00|20220916070917Gutturnio_superiorepng.png
+14||CABERNET SAUVIGNON||Il Cabernet Sauvignon è un vino rosso fermo dal colore rosso rubino ottenuto dalle uve dell’omonimo vitigno Cabernet Sauvignon.<br/>Vino fermo. Ideale per accompagnare piatti di carne rossa e formaggi stagionati.<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: Vino DOC Cabernet Sauvignon<br/>Tipologia: Rosso fermo<br/>Zona di Produzione: Colline Piacentine. <br/>Locaità: Baccedasco Alto.<br/>Uve Base: Cabernet Sauvignon in purezza<br/>Gradazione Alcolica: 12% vol.|Calice (60 ml)  6,00 - Bottiglia (75 cl)  16,00|20220916070919Cabernetpng.png
+14||ORTRUGO DEI COLLI PIACENTINI||Vino frizzante. Vino ottenuto dalle uve dell’omonimo vitigno, coltivate sulle colline piacentine. Colore giallo paglierino con riflessi verdognoli, sapore secco e vivace, profumo delicato e persistente. Ideale con antipasti, piatti di pesce e primi delicati. Servire a temperatura di 10° C.<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: Vino DOC Ortrugo dei Colli Piacentini<br/>Vendemmia: 2020<br/>Tipologia: Frizzante<br/>Zona di Produzione: Colli Piacentini Loc. Bacedasco Alto (PC)<br/>Uve Base: Ortrugo in purezza<br/>Gradazione Alcolica: 11,5 % vol.<br/>Colore: Giallo paglierino con riflessi verdognoli<br/>|Calice (60 ml) 6,00  -  Bottiglia (75 cl)  16,00|20220916070905Ortrugopng.png
+14||CAMPAGNINO||Marsanne: Vino bianco dal sapore ricco, pieno di corpo, con sentore di frutta secca e profumo mandorlato. si accompagna con pesce anche crudo, carni bianche e formaggi. Si abbina bene anche con pietanze dai sapori più forti e con i fritti. Si serve alla temperatura di 6°-10° C.<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: VINO TERRE DI VELEJA IGT MARSANNE<br/>Vendemmia: 2020<br/>Tipologia: Vino Secco Frizzante<br/>Zona di Produzione: Colli Piacentini Loc. Bacedasco Alto (PC)<br/>Uve Base: Marsanne<br/>Gradazione Alcolica: 12 % vol.<br/>Colore: Giallo paglierino|Calice (60 ml)  6,00 - Bottiglia (75 cl)  16,00|20220916070909campagninopng.png
+14||MALVASIA FRIZZANTE||Vino ottenuto dall’omonimo vitigno, coltivate sulle colline piacentine. colore giallo paglierino con riflessi dorati, sapore dolce e aromatico, profumo intenso. Ideale con crostate di confettura, torte soffici e pasticceria a base di frutta. Servire a temperatura di 8-10°C<br/><br/>Prodotto da: Cantina Bargazzi<br/>Denominazione: vino DOC CP Malvasia frizzante dolce<br/>Vendemmia: 2020<br/>Tipologia: frizzante<br/>Zona di Produzione: Colline Piacentine Loc. Bacedasco Alto (PC)<br/>Uve Base: malvasia in purezza<br/>Gradazione Alcolica: 7,5% vol % vol.|Calice (60 ml)  8,00 - Bottiglia (75 cl)  18,00|20220916070914Malvasia-Frizzpng.png
+15||CAFFÈ ESPRESSO|||normale 1,10  -  lungo 1,10  -  macchiato caldo 1,10  -  macchiato freddo 1,10 - decaffeinato 1,30|20220909080929coffee-2303251_640.jpg
+15||LIQUORI E AMARI|||Sambuca  3,50 - Amaro del Capo  3,50 - Amaro Lucano  3,50 - Montenegro  3,50 - Braulio 3,50 - Averna  3,50 - Ramazzotti  3,50 - Cynar 3,50|20220909080949amari.jpg
+15||GRAPPE|||Grappa Bianca Nardini  3,50 -  903 Barrique  3,50 - Diciotto Lune  3,50 - Grappe Vuisinar 4,00|20220910080914glass-4657432_640.jpg
+16||ACQUA E BIBITE|||Acqua naturale bottiglia 75 cl  2,00 - Acqua frizzante bottiglia 75 cl  2,00 - Coca Cola lattina 33 cl  2,50 - Fanta lattina 33 cl  2,50 - Sprite lattina 33 cl  2,50 - Coca Cola vetro 33 cl  3,00 - Red Bull Energy Drink  3,50 - The limone lattina 33 cl 3,00 - The pesca lattina 33 cl 3,00 |20220910080950soft-drink-4280835_640.jpg
+16||SUCCHI DI FRUTTA|||Succo di frutta Pesca 200 ml  3,00 -  Succo di frutta Albicocca 200 ml  3,00 - Succo di frutta ACE 200 ml  3,00|20220910080940orange-2206409_640.jpg
+17||PROSECCHI & SPRITZ|||Aperol Spritz (Aperol, Prosecco, soda)  7,50 -  Campari Spritz (Bitter Campari, prosecco, soda)  7,50 - Hugo Spritz (Prosecco, sciroppo di fiori di Sambuco, soda) 7,50 - Bellini (Prosecco, purea di pesca) 7,50 - Rossini (Prosecco, purea di pesca) 7,50 |20220910090920drink-4477573_640.jpg
+17||NEGRONI|||Classico (Bitter Campari, Vermouth Rosso, Gin) 7,50 - Sbagliato (Bitter Campari, Vermouth Rosso, Prosecco) 7,50 -  Americano (Bitter Campari, Vermouth rosso, soda) 7,50|20220910100931negroni-cocktail.jpg
+17||PESTATI|||Mojito (rum chiaro, menta fresca, lime, zucchero di canna, soda)  7,50 - Mojito Passion (rum chiaro, menta fresca, lime, zucchero canna, soda , passion fruit) 7,50 - Caipirinha (Cachaca , Lime, zucchero di canna) 7,50 - Caipiroska (Vodka ,lime , zucchero di canna) 7,50 |20220910100941cocktail-2306939_640.jpg
+17||GIN & TONIC|||Bombay Sapphire 7,50 - Hendrick's 8,50 - Bulldog 8,50 - Tanqueray 8,50 - Tanqueray ten 9,50|20220910100927Gin-Tonic-e1510078404473-1316x757.jpg
+17||FROZEN|||Margarita Frozen Fragola (Tequila, triple sec, lime fresco, fragola) 7,50 - Piña Colada Frozen (Rum, crema di cocco, succo ananas , ananas) 7,50 - Mojito Frozen (rum chiaro, menta fresca, lime, zucchero canna) 7,50|20220910110906margarita-1839361_640.jpg
+18||COPPA GELATO||Gelato fresco artigianale.<br/>Aggiungi i gusti che preferisci<br/>(massimo 3) + panna montata<br/>|Aggiunta di panna montata 1,00 - Cioccolato al latte 2,50 - Cioccolato fondente 2,50 - Fiordilatte 2,50 - Stracciatella 2,50 - Pistacchio 2,50 - Caffè  2,50 -  Fragola 2,50 - Limone 2,50|20220910070949ice-564944_640.jpg
+18||FRAPPÈ||Frappè freschi artigianali.<br>Scegli il gusto che preferisci|Aggiunta di panna montata 1,00 - fragola  2,00 - banana  2,00 - mela  2,00 - ananas  2,00 - amarena  2,00 - pesca  2,00 - avocado  2,00 - kiwi   2,00 - cacao  2,00|20220910070913food-2940424_640.jpg
+19||TONNO E FANTASIA||Panino abbondante con tonno, insalata, salsa tartara, rucola, mais e scaglie di carota|7,50|20220910080936sandwich-1580348_640.jpg
+19||COPPIA VEG (X2)||2 Panini con maionese veg, olive nere, cetrioli, peperoni e crocchette fritte al tofu e barbabietole|17,00|20220910080905sandwich-1051605_640.jpg
+19||POLLO E VERDURE GRIGLIATE||Panino abbondante con pollo croccante, salsa hot della casa e verdure grigliate|9,00|20220910080949chicken-1701200_640.jpg
+19||SUPER ELLIE||Panino abbondante con insalata, cetrioli, pomodorini secchi e nuggets di cavolfiori impanati|9,50|20220910080913sandwich-1580334_640.jpg
+19||SALAME E FIORI DI ZUCCA||Panino abbondante con salame, pomodori, cipolla, insalata e fiori di zucca fritti|9,50|20220910080921sandwich-1626105_640.jpg
+19||FOCACCIA ALLE OLIVE||Focaccia fatta in casa, ricetta originale genovese con aggiunta di olive|7,50|20220911080952focaccia-olive.jpg
+19||MAXI TOAST LISCIO||Maxi Toast con prosciutto e Leerdammer|8.50|20220910080952toast-classico2.jpg
+19||PANINO AD-HOC||Panino taglia grande con ingredienti selezionati.<br/>Componi il tuo panino, scegli gli ingredienti|Pomodoro 1,00 - Mozzarella 1,50 - Lattuga 1,50 - Rucola 1,50 - Olive 1,50 - Melanzane grigliate 1,50 - Peperoni 1,50 - Fontina 1,50 - Roast Beef 2,50 - Cotto 2,00 - Crudo 2,00 - Salame 2,00 - Coppa 2,00 - Pancetta 2,00 - Bacon 2,00 - Maionese 0,50 - Ketchup 0,50 - Salsa tartare 0,50 - Salsa BBQ|20220910080923sandwich-1580353_640.jpg

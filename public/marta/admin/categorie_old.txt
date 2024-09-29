@@ -1,0 +1,8 @@
+1||Birre||Birre alla spina||
+2||Food||Cibo e stuzzicherie||
+3||Hamburger||Hamburger||
+4||Carni||Le carni||
+5||Contorni||Contorni||
+6||Insalate||Insalate||
+7||Dessert||Dessert||
+8||Mini Menù||Menù bambini||
