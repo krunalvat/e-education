@@ -1,18 +1,34 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Reset Password') }}</div>
-
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
+    <div class="loader justify-content-center ">
+        <div class="maxui-roller align-self-center">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <!-- page main start -->
+        <div class="page">
+            <div class="page-content h-100">
+                <div class="background theme-header"><img src="{{ asset('img/city2.jpg')}}" alt=""></div>
+                <div class="row mx-0 h-100 justify-content-center">
+                    <div class="col-10 col-md-6 col-lg-4 my-3 mx-auto text-center align-self-center">
+                        <img src="{{ asset('img/logo-w.png')}}" alt="" class="login-logo">
+                        <h4 class="text-white mb-4"><BR><STRONG>{{__('Parent mode')}}</h4>
+                        <br><br>
+                        <div class="card-header">{{ __('Reset Password') }}</div>
+                        @if (session('status'))
+                            <div class="alert alert-success" role="alert">
+                                {{ session('status') }}
+                            </div>
+                        @endif
 
                     <form method="POST" action="{{ route('password.email') }}">
                         @csrf
@@ -38,10 +54,11 @@
                                 </button>
                             </div>
                         </div>
-                    </form>
+                    </form>                      
+                    </div>
                 </div>
             </div>
         </div>
+        <!-- page main ends -->
     </div>
-</div>
 @endsection
